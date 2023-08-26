@@ -1,4 +1,3 @@
-Sure, here's a sample `README.md` file that you can use as a starting point for your project:
 
 ```markdown
 # FinOps
