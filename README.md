@@ -77,6 +77,8 @@ php artisan serve
 ## Additional Notes
 
 - For API routes, make sure to include the appropriate headers for authorization when making requests.
+- Each API apart from register and login is protect by Auth Layer implemented using passport
+- Custom middleware to check the role based API's
 - To run tests, you can use the following command:
 
 ```bash
